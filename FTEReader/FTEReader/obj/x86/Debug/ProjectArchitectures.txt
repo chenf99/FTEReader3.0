@@ -1,0 +1,1 @@
+D:\ProgramData\Visual Studio 2017\FTEReader3.0\FTEReader\FTEReader\FTEReader.csproj;x86
